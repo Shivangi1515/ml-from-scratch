@@ -11,6 +11,13 @@ This repository is focused on learning **Supervised Machine Learning concepts** 
 - Train–test splitting and model training  
 - Understanding predictions and model behavior  
 
+### 📚 Implemented Algorithms
+- **Linear Regression**: Predicting continuous variables (e.g., house prices, linear patterns).
+- **Logistic Regression**: Binary classification problems (e.g., predicting employee turnover, heart disease).
+- **K-Nearest Neighbors (KNN)**: Classification based on similarity (e.g., Iris flower classification).
+- **Decision Trees**: Both Classifier and Regressor models for structured decision-making.
+- **Support Vector Machines (SVM)**: Advanced classification techniques.
+
 ---
 
 ## 🎯 Objective
